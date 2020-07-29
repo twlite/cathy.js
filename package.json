@@ -1,0 +1,28 @@
+{
+  "name": "cathy.js",
+  "version": "0.0.0",
+  "description": "AI chatbot based on AIML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/cathy.js.git"
+  },
+  "keywords": [
+    "cathy",
+    "cathy.js",
+    "chatbot",
+    "aiml"
+  ],
+  "author": "Snowflake107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/cathy.js/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/cathy.js#readme",
+  "dependencies": {
+    "aimlinterpreter": "^0.1.7"
+  }
+}
