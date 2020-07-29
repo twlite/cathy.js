@@ -1,6 +1,6 @@
 {
   "name": "cathy.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "AI chatbot based on AIML.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,11 @@
     "cathy",
     "cathy.js",
     "chatbot",
-    "aiml"
+    "aiml",
+    "ai",
+    "discord",
+    "chatbot",
+    "ai-chatbot"
   ],
   "author": "Snowflake107",
   "license": "ISC",

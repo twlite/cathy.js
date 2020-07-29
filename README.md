@@ -17,7 +17,7 @@ npm install cathy.js
 
 ```js
 const Cathy = require("cathy.js");
-const cathy = new Cathy();
+const cathy = new Cathy.Bot();
 
 cathy.on("ready", () => console.log("Bot is ready!"));
 
