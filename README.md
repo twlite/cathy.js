@@ -1,6 +1,8 @@
 # Cathy.js
 Simple chatbot package based on AIML.
 
+> # Project moved to **[https://github.com/Project-IX/cathy](https://github.com/Project-IX/cathy)**
+
 # Installing
 
 ```sh
